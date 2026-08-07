@@ -15,4 +15,4 @@
 
 </div>
 <div align="center">
-<h4>WILL UPDTE LINKS im js barley online anymor and i sooo lazy rubs belly</h4>
+<h4>[pt-walk-of-fame](https://github.com/pt-walk-of-fame): Character nominee as Human Ant Tenna horrayy!!</h4>
