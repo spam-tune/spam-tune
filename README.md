@@ -1,16 +1,18 @@
-## Hi there 👋
+</div>
+<div align="center">
+<h3>fucc human spamtenna im bouta bustt 🤤</h3>
+<br>
+</div>
+<div align="center">
+<img width="480" height="420" alt="Screenshot 2026-08-06 9 37 34 PM" src="https://github.com/user-attachments/assets/86a86d11-df8e-4285-ba45-e73f66fdd9b3" />
+<br>  
 
-<!--
-**spam-tune/spam-tune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
+<div align="center">
+<br>
+  
+[新ｂｏｏｋ](https://voxxi.atabook.org/)  ☎⠀⠀ [ｇｕｎｓ.ｌｏｌ](https://guns.lol/radiostaticc)  ♬⠀⠀ [ｓｔｒａｗ](https://electricdeerr.straw.page/)  ★⠀⠀
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+<div align="center">
+<h4>WILL UPDTE LINKS im js barley online anymor and i sooo lazy rubs belly</h4>
