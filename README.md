@@ -17,4 +17,4 @@
 <div align="center">
 <br> 
  
-[pt-walk-of-fame](https://github.com/pt-walk-of-fame) : Character nominee as Human Mr. Ant Tenna horayy!! ^_^
+[pt-walk-of-fame](https://github.com/pt-walk-of-fame) : Character nominee as Human Mr. Ant Tenna horayy !! ^_^
