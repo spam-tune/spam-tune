@@ -15,4 +15,5 @@
 
 </div>
 <div align="center">
-<h4>[pt-walk-of-fame](https://github.com/pt-walk-of-fame): Character nominee as Human Ant Tenna horrayy!!</h4>
+  
+[pt-walk-of-fame](https://github.com/pt-walk-of-fame) : Character nominee as Human Ant Tenna horayy!!
