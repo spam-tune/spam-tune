@@ -15,7 +15,7 @@
 
 </div>
 <div align="center">
-<h4>WILL UPDTE LINKS plsss im just so lazy arrgh</h4>
+<h4>git best viewed on desktop/mobile, links mobile viewed ok??? </h4>
 <br>
   
 <h5>
