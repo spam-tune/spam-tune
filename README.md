@@ -18,7 +18,7 @@
 <h4>WILL UPDTE LINKS plsss im just so lazy arrgh</h4>
 <br>
   
-<h3>
+<h5>
   
-[pt-walk-of-fame](https://github.com/pt-walk-of-fame) : Character nominee as Human Mr. Ant Tenna horayy !! ^_^
-</h3>
+[pt-walk-of-fame](https://github.com/pt-walk-of-fame)  [pt-friendships](https://github.com/pt-friendships)
+</h5>
