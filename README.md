@@ -20,5 +20,4 @@
   
 <h5>
   
-[pt-walk-of-fame](https://github.com/pt-walk-of-fame)⠀⠀⠀[pt-friendships](https://github.com/pt-friendships)
-</h5>
+[pt-walk-of-fame](https://github.com/pt-walk-of-fame)⠀⠀⠀[pt-friendships](https://github.com/pt-friendships)⠀⠀⠀[pt-fashion](https://github.com/pt-fashion)</h5>
