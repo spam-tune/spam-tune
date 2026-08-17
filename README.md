@@ -10,12 +10,13 @@
 
 
     
-<img width="510" height="390" alt="Screenshot 2026-08-16 9 39 10 PM" src="https://github.com/user-attachments/assets/43354bb1-5cfa-4e29-86e7-1273d4c5fe91" />　
+<img width="530" height="390" alt="Screenshot 2026-08-16 9 39 10 PM" src="https://github.com/user-attachments/assets/43354bb1-5cfa-4e29-86e7-1273d4c5fe91" />　
 ‎</div>
 <div align="center">
 <br>
-  
-[新ｂｏｏｋ](https://voxxi.atabook.org/)  <span>${\textsf{\color{#D7A47D}☎}}$</span>⠀⠀ [ｇｕｎｓ.ｌｏｌ](https://guns.lol/radiostaticc)  <span>${\textsf{\color{#D7A47D}♬}}$</span>⠀⠀ [ｓｔｒａｗ](https://electricdeerr.straw.page/)  <span>${\textsf{\color{#D7A47D}★}}$</span>⠀⠀
+<h3>
+    
+[新ｂｏｏｋ](https://voxxi.atabook.org/)  <span>${\textsf{\color{#D7A47D}☎}}$</span>⠀⠀ [ｇｕｎｓ.ｌｏｌ](https://guns.lol/radiostaticc)  <span>${\textsf{\color{#D7A47D}♬}}$</span>⠀⠀ [ｓｔｒａｗ](https://electricdeerr.straw.page/)  <span>${\textsf{\color{#D7A47D}★}}$</span>⠀</h3>⠀
 </div>
 <h2 align="center"><span>${\textsf{\color{#cf5f56}Pt's Human Mr. Ant Tenna !!}}$</span></h2>
 <br>
