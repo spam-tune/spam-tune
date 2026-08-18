@@ -17,7 +17,7 @@
 <br>
 
     
-[新ｂｏｏｋ](https://voxxi.atabook.org/)  <span>${\textsf{\color{#D7A47D}☎}}$</span>⠀⠀ [ｇｕｎｓ.ｌｏｌ](https://guns.lol/radiostaticc)  <span>${\textsf{\color{#D7A47D}♬}}$</span>⠀⠀ [ｓｔｒａｗ](https://electricdeerr.straw.page/)  <span>${\textsf{\color{#D7A47D}★}}$</span>⠀⠀
+[新ｂｏｏｋ](https://voxxi.atabook.org/)  <span>${\textsf{\color{#D7A47D}☎}}$</span>⠀⠀⠀⠀ [ｓｔｒａｗ](https://electricdeerr.straw.page/)  <span>${\textsf{\color{#D7A47D}★}}$</span>⠀⠀
 </div>
 <br>
 <h2 align="center"><span>${\textsf{\color{#cf5f56}Pt's Human Mr. Ant Tenna !!}}$</span></h2>
