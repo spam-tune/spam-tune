@@ -1,7 +1,7 @@
 
 <div align="center"> 
 ‎  
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ledger&weight=400&size=21&duration=3200&pause=30&color=CF6459&center=true&vCenter=true&width=500&lines=''And+I+was+thinkin'+to+myself+...;'This+could+be+Heaven+or+this+could+be+Hell',;then+HE+lit+up+a+candle+...;And+he+showed+me+the+way.''" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ledger&weight=400&size=21&duration=3200&pause=30&color=CF6459&center=true&vCenter=true&width=500&lines=''-and+I+was+thinkin'+to+myself+...;'This+could+be+Heaven+or+this+could+be+Hell',;then+HE+lit+up+a+candle+...;And+he+showed+me+the+way.''" alt="Typing SVG" /></a>
 
 
 
