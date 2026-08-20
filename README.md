@@ -11,7 +11,7 @@
     
 <img width="646" height="349" alt="Untitled8_20260817153232" src="https://github.com/user-attachments/assets/1eb3fe9f-1a27-42a2-b3c7-de900ebb282f" />
 <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ledger&weight=400&size=21&duration=3700&pause=40&color=CF6459&center=true&vCenter=true&width=500&lines=''And+to+tell+you+beautiful+boy+...;That+you're+lovely+and+enchanting.;That+you're+lovely+and+enchanting+...;Charming+Malagueno.+<3''" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ledger&weight=400&size=21&duration=3900&pause=40&color=CF6459&center=true&vCenter=true&width=500&lines=''And+to+tell+you+beautiful+boy+...;That+you're+lovely+and+enchanting.;That+you're+lovely+and+enchanting+...;Charming+Malagueno.+<3''" alt="Typing SVG" /></a>
 
 
 ‎</div>
