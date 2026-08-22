@@ -1,6 +1,6 @@
 <div align="center"> 
 ‎  
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ledger&weight=400&size=21&duration=4000&pause=40&color=E773A5&center=true&vCenter=true&width=500&lines=''Y+decirte+nino+hermoso+...;Que+eres+lindo+y+hechicero.;Que+eres+lindo+y+hechicero+...;Malagueno+saleroso.+<3''" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ledger&weight=400&size=21&duration=3400&pause=30&color=E773A5&center=true&vCenter=true&width=500&lines=''Once+upon+a+time,+I+was+falling+in+love,;-but+now+i'm+only+falling+apart.;There's+nothing+I+can+do,;a+Total+Eclipse+Of+The+Heart.''" alt="Typing SVG" /></a>
 
 
 
@@ -9,9 +9,8 @@
 
 
     
-<img width="664" height="359" alt="Untitled19_20260821143033" src="https://github.com/user-attachments/assets/6079beac-8378-434a-a20e-24e11e12cf6a" />
+<img width="684" height="339" alt="Untitled19_20260821143033" src="https://github.com/user-attachments/assets/6079beac-8378-434a-a20e-24e11e12cf6a" />
 <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ledger&weight=400&size=21&duration=3980&pause=40&color=E773A5&center=true&vCenter=true&width=500&lines=''And+to+tell+you+beautiful+boy+...;That+you're+lovely+and+enchanting.;That+you're+lovely+and+enchanting+...;Charming+Malagueno.+<3''" alt="Typing SVG" /></a>
 
 
 ‎</div>
