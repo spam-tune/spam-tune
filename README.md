@@ -1,6 +1,6 @@
 <div align="center"> 
 ‎  
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ledger&weight=400&size=21&duration=3400&pause=30&color=DA5E6E&center=true&vCenter=true&width=500&lines=''Once+upon+a+time,+I+was+falling+in+love,;-but+now+i'm+only+falling+apart.;There's+nothing+I+can+do,;a+Total+Eclipse+Of+The+Heart.''" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ledger&weight=400&size=21&duration=3400&pause=30&color=F9DDBE&center=true&vCenter=true&width=500&lines=''You're+my+first+and+second+place-;the+smile+that's+on+my+face.;My+sunshine+.+.+.+,;-and+my+rainbow+too.''" alt="Typing SVG" /></a>
 
 
 
@@ -9,7 +9,7 @@
 
 
     
-<img width="664" height="349" alt="Untitled8_20260824184543" src="https://github.com/user-attachments/assets/8440b7fb-3d26-4e66-989a-2d86080159a7" />
+<img width="644" height="379" alt="f089e7a3-54f2-4aaf-a0ac-9b44e4503ec1" src="https://github.com/user-attachments/assets/034fb642-004f-4e9b-afc1-92b04ea6c974" />
 <br>
 
 
@@ -18,10 +18,10 @@
 <br>
 
     
-[新ｂｏｏｋ](https://voxxi.atabook.org/)  <span>${\textsf{\color{#C7A279}☎}}$</span>⠀⠀⠀⠀ [ｓｔｒａｗ](https://electricdeerr.straw.page/)  <span>${\textsf{\color{#C7A279}★}}$</span>⠀⠀
+[新ｂｏｏｋ](https://voxxi.atabook.org/)  <span>${\textsf{\color{#FFFFF5}☎}}$</span>⠀⠀⠀⠀ [ｓｔｒａｗ](https://electricdeerr.straw.page/)  <span>${\textsf{\color{#FFFFF5}★}}$</span>⠀⠀
 </div>
 <br>
-<h2 align="center"><span>${\textsf{\color{#da5e6e}Pt's Human Mr. Ant Tenna !!}}$</span></h2>
+<h2 align="center"><span>${\textsf{\color{#F9DDBE}Pt's Human Mr. Ant Tenna !!}}$</span></h2>
 <br>
 
 <div align="center"> 
