@@ -1,3 +1,4 @@
+
 <div align="center"> 
 ‎  
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ultra&weight=400&size=23&duration=3400&pause=20&color=E67C6A&center=true&vCenter=true&width=500&lines=''+Ammari+sowasowa+shinaide,;Anata+wa+itsudemo+kyorokyoro+!;Yosomi+o+suru+no+wa+yamete+yo+.+.+.;Watashi+ga+dare+yori+ichiban+!+<3+''" alt="Typing SVG" /></a>
@@ -9,7 +10,7 @@
 
 
     
-<img width="694" height="329" alt="IMG_1679" src="https://github.com/user-attachments/assets/63159be5-d258-48e5-b490-4a58fed3bc5e" />
+<img width="550" height="267" alt="IMG_1679 (1)" src="https://github.com/user-attachments/assets/a3c3083e-2426-4e08-98a9-cf411a6e0e8a" />
 <br>
 
 
