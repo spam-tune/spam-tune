@@ -1,6 +1,6 @@
 <div align="center"> 
 ‎  
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ledger&weight=400&size=21&duration=3500&pause=35&color=FCC686&center=true&vCenter=true&width=500&lines=''You're+my+first+and+second+place-;the+smile+that's+on+my+face.;My+sunshine+.+.+.+,;-and+my+rainbow+too.''" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ultra&weight=400&size=23&duration=3400&pause=40&color=E67C6A&center=true&vCenter=true&width=500&lines=''Ammari+sowasowa+shinaide,;Anata+wa+itsudemo+kyorokyoro+!;Yosomi+o+suru+no+wa+yamete+yo+.+.+.;Watashi+ga+dare+yori+ichiban+!+<3''" alt="Typing SVG" /></a>
 
 
 
@@ -18,10 +18,10 @@
 <br>
 
     
-[新ｂｏｏｋ](https://voxxi.atabook.org/)  <span>${\textsf{\color{#FFFFF5}☎}}$</span>⠀⠀⠀⠀ [ｓｔｒａｗ](https://electricdeerr.straw.page/)  <span>${\textsf{\color{#FFFFF5}★}}$</span>⠀⠀
+[新ｂｏｏｋ](https://voxxi.atabook.org/)  <span>${\textsf{\color{#FBDBC2}☎}}$</span>⠀⠀⠀⠀ [ｓｔｒａｗ](https://electricdeerr.straw.page/)  <span>${\textsf{\color{#FBDBC2}★}}$</span>⠀⠀
 </div>
 <br>
-<h2 align="center"><span>${\textsf{\color{#FCC686}Pt's Human Mr. Ant Tenna !!}}$</span></h2>
+<h2 align="center"><span>${\textsf{\color{#E67C6A}Pt's Human Mr. Ant Tenna !!}}$</span></h2>
 <br>
 
 <div align="center"> 
