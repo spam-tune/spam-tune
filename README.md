@@ -21,7 +21,7 @@
 [新ｂｏｏｋ](https://voxxi.atabook.org/)  <span>${\textsf{\color{#FBDBC2}☎}}$</span>⠀⠀⠀⠀ [ｓｔｒａｗ](https://electricdeerr.straw.page/)  <span>${\textsf{\color{#FBDBC2}★}}$</span>⠀⠀
 </div>
 <br>
-<h2 align="center"><span>${\textsf{\color{#E67C6A}Pt's Human Mr. Ant Tenna !!}}$</span></h2>
+<h2 align="center"><span>${\textsf{\color{#E67C6A}𝑷𝒕'𝒔 𝑯𝒖𝒎𝒂𝒏 𝑴𝒓. 𝑨𝒏𝒕 𝑻𝒆𝒏𝒏𝒂 !!}}$</span></h2>
 <br>
 
 <div align="center"> 
