@@ -1,7 +1,7 @@
 
 <div align="center"> 
 ‎  
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ultra&weight=400&size=23&duration=3400&pause=20&color=E67C6A&center=true&vCenter=true&width=500&lines=''+Ammari+sowasowa+shinaide,;Anata+wa+itsudemo+kyorokyoro+!;Yosomi+o+suru+no+wa+yamete+yo+.+.+.;Watashi+ga+dare+yori+ichiban+!+<3+''" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ultra&weight=400&size=23&duration=3300&pause=350&color=E67C6A&center=true&vCenter=true&width=500&lines=''+Ammari+sowasowa+shinaide,;Anata+wa+itsudemo+kyorokyoro+!;Yosomi+o+suru+no+wa+yamete+yo+.+.+.;Watashi+ga+dare+yori+ichiban+!+<3+''" alt="Typing SVG" /></a>
 
 
 
