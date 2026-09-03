@@ -1,6 +1,10 @@
 
 <div align="center"> 
-‎  
+‎<img width="1671" height="399" alt="Untitled8_20260903130920" src="https://github.com/user-attachments/assets/2723f0cf-9f72-4872-a4bd-75fc74a427ae" />
+
+  
+
+    
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ultra&weight=400&size=23&duration=3300&pause=350&color=E67C6A&center=true&vCenter=true&width=500&lines=''+Ammari+sowasowa+shinaide,;Anata+wa+itsudemo+kyorokyoro+!;Yosomi+o+suru+no+wa+yamete+yo+.+.+.;Watashi+ga+dare+yori+ichiban+!+<3+''" alt="Typing SVG" /></a>
 
 
@@ -10,9 +14,10 @@
 
 
     
-<img width="550" height="267" alt="IMG_1679 (1)" src="https://github.com/user-attachments/assets/a3c3083e-2426-4e08-98a9-cf411a6e0e8a" />
+<img width="620" height="529" alt="Untitled8_20260903125748 (1)" src="https://github.com/user-attachments/assets/19d14488-b5e8-4787-8aa1-22ff0ce75a6b" />
 <br>
 
+<img width="1671" height="399" alt="Untitled8_20260903130920" src="https://github.com/user-attachments/assets/16e178c5-43b4-4c44-b78d-c5da5024d00f" />
 
 ‎</div>
 <div align="center">
