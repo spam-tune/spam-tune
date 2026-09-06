@@ -28,6 +28,8 @@
 </div>
 <br>
 <h2 align="center"><span>${\textsf{\color{#E67C6A}𝑷𝒕'𝒔 𝑯𝒖𝒎𝒂𝒏 𝑴𝒓. 𝑨𝒏𝒕 𝑻𝒆𝒏𝒏𝒂 !!}}$</span></h2>
+<h3 align="center"><span>${\textsf{\color{#FBDBC2}*git better seen in in dark mode*}}$</span></h3>
+
 <br>
 
 <div align="center"> 
