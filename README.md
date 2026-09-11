@@ -1,20 +1,12 @@
 
 <div align="center"> 
 
+    
+<img src="https://cdn.imgchest.com/files/b915dffc1fb0.png" align="center" width="1000px" height="300">
 
-  
 
     
 
-
-
-
-‎<h3 align="center"><span>${\textsf{\color{#FBDBC2}dis is gonna be updated soon lolz}}$</span></h3>
-‎ 
-
-<img scr=“https://cdn.imgchest.com/files/b915dffc1fb0.png” align=“left” width=“350px”>
-    
-<img width="544" height="364" alt="images (7)" src="https://github.com/user-attachments/assets/5da02b17-3a7c-460d-88ff-e7a29bc87734" />
 <br>
 
 
