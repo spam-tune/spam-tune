@@ -1,23 +1,23 @@
 
 <div align="center"> 
-‎<img width="1671" height="345" alt="Untitled8_20260903130920" src="https://github.com/user-attachments/assets/2723f0cf-9f72-4872-a4bd-75fc74a427ae" />
+
 
   
 
     
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Knewave&weight=400&size=23&duration=3300&pause=130&color=E67C6A&center=true&vCenter=true&width=500&lines=''+Someone,+call+the+doctor+.+.+.;Got+a+case+of+a+love+bipolar+!?;Stuck+on+a+roller+coaster-;Can't+get+off+this+riiide+!!+''" alt="Typing SVG" /></a>
 
 
 
-‎ 
+
+‎<h3 align="center"><span>${\textsf{\color{#FBDBC2}dis is gonna be updated soon lolz}}$</span></h3>
 ‎ 
 
 
     
-<img width="625" height="449" alt="Untitled8_20260903125748 (1)" src="https://github.com/user-attachments/assets/add83538-a5d4-44a1-9aaf-8277fa38708b" />
+<img width="544" height="364" alt="images (7)" src="https://github.com/user-attachments/assets/5da02b17-3a7c-460d-88ff-e7a29bc87734" />
 <br>
 
-<img width="1671" height="345" alt="Untitled8_20260903130920" src="https://github.com/user-attachments/assets/16e178c5-43b4-4c44-b78d-c5da5024d00f" />
+
 
 ‎</div>
 <div align="center">
