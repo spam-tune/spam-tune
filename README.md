@@ -1,12 +1,10 @@
-
-<div align="center"> 
+ 
 
     
 <img src="https://cdn.imgchest.com/files/b915dffc1fb0.png" align="center" width="1000px" height="300">
 
 
-
-https://cdn.imgchest.com/files/74bc2cf3a49b.png
+<img src="https://cdn.imgchest.com/files/74bc2cf3a49b.png" align="left" width="570px" height="440">
 
 
 
