@@ -3,7 +3,7 @@
     
 <img src="https://cdn.imgchest.com/files/b915dffc1fb0.png" align="center" width="1000px" height="300">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Knewave&weight=400&size=23&duration=3300&pause=130&color=E05C5E&center=true&vCenter=true&width=500&lines=''+The+man+who+made+my+dreams+come+true+.+.+.;.+.+.You're+my+hidden+thoughts+of+laughter,;My+happy+ever+after.;Ain't+nobody+else+like+yoouu+!+''" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Knewave&weight=400&size=23&duration=3300&pause=130&color=E05C5E&center=true&vCenter=true&width=500&lines=''+The+man+who+made+my+dreams+come+true+.+.+.;.+.+.You're+my+hidden+thoughts+of+laughter,;My+happy+ever+afterrr.;Ain't+nobody+else+like+yooouuuu+!+''" alt="Typing SVG" /></a>
 
 
 
