@@ -18,12 +18,9 @@
 
 
 
-<img src="https://cdn.imgchest.com/files/ae525fb6537d.png" align="center" width="1000px" height="300">
-<table>
-<tr>
 
 
-</p>
+
     
 
 <br>
@@ -37,8 +34,7 @@
     
 
 
-<h3 align="center"><span>${\textsf{\color{#FBDBC2}*git better VIEWED in dark mode*}}$</span></h3>
-
+${{\color{#FEF2E3} this \space is \space better \space viewed \space on}}$ ${{\color{#e05c5e} dark \space mode \space / \space pc}}$ 
 <br>
 
 <div align="center"> 
@@ -48,3 +44,5 @@
 [pt-walk-of-fame](https://github.com/pt-walk-of-fame)⠀⠀⠀[pt-friendships](https://github.com/pt-friendships)⠀⠀⠀[pt-fashion](https://github.com/pt-fashion)⠀⠀⠀[pt-hall-of-media](https://github.com/pt-hall-of-media) </h5>
 
 
+
+<img src="https://cdn.imgchest.com/files/ae525fb6537d.png" align="center" width="1000px" height="300">
