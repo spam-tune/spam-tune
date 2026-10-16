@@ -9,11 +9,8 @@
 
 
 <br>
+<br>
 
-
-
-| ${{\color{#FEF2E3} 𝑷𝒕'𝒔}}$ ${{\color{#e05c5e} 𝑯𝒖𝒎𝒂𝒏. 𝑨𝒏𝒕 \space 𝑻𝒆𝒏𝒏𝒂 \space !!}}$ 
-|------------------------------|
 
 
 |  [☎](https://voxxi.atabook.org/)  <span>${\textsf{\color{#FEF2E3}𝐚𝐭𝐚 }}$</span>⠀⠀⠀[★](https://electricdeerr.straw.page/)  <span>${\textsf{\color{#FEF2E3}𝐬𝐭𝐫𝐚𝐰𝐩𝐚𝐠𝐞}}$</span>⠀
@@ -37,7 +34,7 @@
     
 
 
-${{\color{#FEF2E3} this \space is \space better \space viewed \space on}}$ ${{\color{#e05c5e} dark \space mode \space / \space pc}}$ 
+${{\color{#FEF2E3} this \space is \space better \space viewed \space on}}$ ${{\color{#FEF2E3} dark \space mode \space / \space pc}}$ 
 <br>
 
 <div align="center"> 
@@ -55,7 +52,7 @@ ${{\color{#FEF2E3} this \space is \space better \space viewed \space on}}$ ${{\c
 
 <div align="center">
 <details>
-  <summary>$$\color{#e05c5e}\text{𝐲𝐨\ 𝐜𝐡𝐞𝐜𝐤\ 𝐝𝐢𝐬\ 𝐨𝐮𝐭\ !!}$$</summary>
+  <summary>$$\color{#FEF2E3}\text{𝐲𝐨\ 𝐜𝐡𝐞𝐜𝐤\ 𝐝𝐢𝐬\ 𝐨𝐮𝐭\ !!}$$</summary>
   <br>
   
   <div align="center">
