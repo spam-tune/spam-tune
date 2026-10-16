@@ -1,13 +1,16 @@
+
  
 
-    
-<img src="https://cdn.imgchest.com/files/b915dffc1fb0.png" align="center" width="1000px" height="300">
+<div align="center">
+<img width="450" height="320" alt="Screenshot 2026-10-15 11 31 07 PM" src="https://github.com/user-attachments/assets/b02aa136-a5c2-4bdb-9757-682dace83523" />
+<br>   
+<h3>
+<span>${\textsf{\color{#FEF2E3}This is a wip!! I'll probs finish reworking soon tho 👀}}$</span>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Knewave&weight=400&size=23&duration=3300&pause=130&color=E05C5E&center=true&vCenter=true&width=500&lines=''+The+man+who+made+my+dreams+come+true+.+.+.;.+.+.You're+my+hidden+thoughts+of+laughter,;My+happy+ever+afterrr.;Ain't+nobody+else+like+yooouuuu+!+''" alt="Typing SVG" /></a>
+
+<br>
 
 
-
-<img src="https://cdn.imgchest.com/files/74bc2cf3a49b.png" align="left" width="599px" height="440">
 
 | ${{\color{#FEF2E3} 𝑷𝒕'𝒔}}$ ${{\color{#e05c5e} 𝑯𝒖𝒎𝒂𝒏. 𝑨𝒏𝒕 \space 𝑻𝒆𝒏𝒏𝒂 \space !!}}$ 
 |------------------------------|
@@ -72,4 +75,4 @@ ${{\color{#FEF2E3} this \space is \space better \space viewed \space on}}$ ${{\c
 
 
 
-<img src="https://cdn.imgchest.com/files/ae525fb6537d.png" align="center" width="1000px" height="300">
+
