@@ -16,7 +16,7 @@ ${{\color{#ebc094} git \space not \space phone/tablet \space friendly \space ;-;
 <br>
 
 <div align="left">
- <img src="https://cdn.imgchest.com/files/b7ab4f7fbf5a.png" align="left" width="600px" height="550">
+ <img src="https://cdn.imgchest.com/files/b7ab4f7fbf5a.png" align="left" width="620px" height="550">
 <br>
 
 
