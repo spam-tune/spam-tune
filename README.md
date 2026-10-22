@@ -16,7 +16,7 @@ ${{\color{#ebc094} the \space png \space bug \space will \space be \space fixed 
 <br>
 
 
-<img src="https://cdn.imgchest.com/files/7e4c8498664d.png" align="left" width="600" height="500">
+<img src="https://cdn.imgchest.com/files/8b5489a88e7b.png" align="left" width="600" height="500">
 
 | ${{\color{#ebc094} 𝑷𝒕'𝒔}}$ ${{\color{#EC696A} 𝑯𝒖𝒎𝒂𝒏. 𝑨𝒏𝒕 \space 𝑻𝒆𝒏𝒏𝒂 \space !!}}$ 
 |------------------------------|
