@@ -15,8 +15,8 @@ ${{\color{#ebc094} the \space png \space bug \space will \space be \space fixed 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fontdiner+Swanky&size=21&duration=4000&pause=800&color=EC696A&center=true&vCenter=true&width=435&lines=Take+this+man+to+your+bed-;-maybe+his+hands+will+help+you+forget.;Please+be+stronger+than+your+past%2C;The+future+may+still+give+you+a+chance." alt="Typing SVG" /></a>
 <br>
 
-<img scr="https://cdn.imgchest.com/files/b7ab4f7fbf5a.png" align="left" width="650" height="550">
 
+<a href="https://imgchest.com/p/o24aw6x9e7l"><img src="https://cdn.imgchest.com/files/b7ab4f7fbf5a.png"></a>
 
 | ${{\color{#ebc094} 𝑷𝒕'𝒔}}$ ${{\color{#EC696A} 𝑯𝒖𝒎𝒂𝒏. 𝑨𝒏𝒕 \space 𝑻𝒆𝒏𝒏𝒂 \space !!}}$ 
 |------------------------------|
