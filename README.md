@@ -12,7 +12,7 @@ ${{\color{#ebc094} git \space not \space phone/tablet \space friendly \space ;-;
 <div align="left">
 <br>
  
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fontdiner+Swanky&size=21&duration=4000&pause=800&color=EC696A&center=true&vCenter=true&width=435&lines=Take+this+man+to+your+bed-;-maybe+his+hands+will+help+you+forget.;Please+be+stronger+than+your+past%2C;The+future+may+still+give+you+a+chance." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fontdiner+Swanky&size=21&duration=4000&pause=800&color=EC696A&center=true&vCenter=true&width=435&lines=Take+this+man+to+your+bed-;-maybe+his+hands+will+help+you+forget.;Please+be+stronger+than+your+past%2C;The+future+may+still+give+you+a+chance..." alt="Typing SVG" /></a>
 <br>
 
 <div align="left">
