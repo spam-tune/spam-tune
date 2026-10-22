@@ -6,7 +6,7 @@
 </div>
 <div align="center">
  
-${{\color{#ebc094} the \space png \space bug \space will \space be \space fixed \space later \space ;-;}}$ 
+${{\color{#ebc094} git \space not \space phone/tablet \space friendly \space ;-;}}$ 
 <br>
 
 <div align="left">
