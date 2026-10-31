@@ -4,10 +4,6 @@
 <img src="https://cdn.imgchest.com/files/3380532c8f6a.png" align="center" width="1000px" height="300">
 <br>
 </div>
-<div align="center">
- 
-${{\color{#FF7941} git \space not \space phone/tablet \space friendly \space ;-;}}$ 
-<br>
 
 <div align="left">
 <br>
@@ -82,6 +78,10 @@ ${{\color{#FF7941} git \space not \space phone/tablet \space friendly \space ;-;
 
 </div>
 
+<br>
+<div align="center">
+ 
+${{\color{#FF7941} git \space not \space phone/tablet \space friendly \space ;-;}}$ 
 <br>
 
 <img src="https://cdn.imgchest.com/files/b2e076ddfde7.png" align="center" width="1000px" height="300">
