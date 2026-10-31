@@ -1,9 +1,9 @@
 
 
     
-<img src="https://cdn.imgchest.com/files/3380532c8f6a.png" align="center" width="1000px" height="300">
+<img src="https://cdn.imgchest.com/files/3380532c8f6a.png" align="center" width="1000px" height="350">
 <br>
-</div>
+
 
 <div align="left">
 <br>
@@ -12,7 +12,7 @@
 <br>
 
 <div align="left">
- <img src="https://cdn.imgchest.com/files/fdb4f7ffc663.png" align="left" width="610px" height="550">
+ <img src="https://cdn.imgchest.com/files/fdb4f7ffc663.png" align="left" width="620px" height="599">
 <br>
 
 
@@ -84,4 +84,4 @@
 ${{\color{#FF7941} git \space not \space phone/tablet \space friendly \space ;-;}}$ 
 <br>
 
-<img src="https://cdn.imgchest.com/files/b2e076ddfde7.png" align="center" width="1000px" height="300">
+<img src="https://cdn.imgchest.com/files/b2e076ddfde7.png" align="center" width="1000px" height="350">
