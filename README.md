@@ -6,7 +6,7 @@
 </div>
 <div align="center">
  
-${{\color{#ebc094} git \space not \space phone/tablet \space friendly \space ;-;}}$ 
+${{\color{#FF7941} git \space not \space phone/tablet \space friendly \space ;-;}}$ 
 <br>
 
 <div align="left">
@@ -21,7 +21,7 @@ ${{\color{#ebc094} git \space not \space phone/tablet \space friendly \space ;-;
 
 
 
-| ${{\color{#ebc094} 𝑷𝒕'𝒔}}$ ${{\color{#EC696A} 𝑯𝒖𝒎𝒂𝒏. 𝑨𝒏𝒕 \space 𝑻𝒆𝒏𝒏𝒂 \space !!}}$ 
+| ${{\color{#FF7941} 𝑷𝒕'𝒔}}$ ${{\color{#EC696A} 𝑯𝒖𝒎𝒂𝒏. 𝑨𝒏𝒕 \space 𝑻𝒆𝒏𝒏𝒂 \space !!}}$ 
 |------------------------------|
 
 
