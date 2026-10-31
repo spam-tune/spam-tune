@@ -84,4 +84,4 @@ ${{\color{#ebc094} git \space not \space phone/tablet \space friendly \space ;-;
 
 <br>
 
-<img src="https://cdn.imgchest.com/files/a7aa13d0e161.png" align="center" width="1000px" height="300">
+<img src="https://cdn.imgchest.com/files/b2e076ddfde7.png" align="center" width="1000px" height="300">
