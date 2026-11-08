@@ -81,7 +81,7 @@
 <br>
 <div align="center">
  
-${{\color{#df9864} git \space not \space phone/tablet \space friendly \space :/}}$ 
+${{\color{#df9864} never \space redoing \space my \space links \space :/}}$ 
 <br>
 
 <img src="https://cdn.imgchest.com/files/5bde47f6fc0d.png" align="center" width="1000px" height="450">
