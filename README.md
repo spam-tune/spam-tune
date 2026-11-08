@@ -12,7 +12,7 @@
 <br>
 
 <div align="left">
- <img src="https://cdn.imgchest.com/files/ee8a2ba19509.png" align="left" width="590px" height="599">
+ <img src="https://cdn.imgchest.com/files/ee8a2ba19509.png" align="left" width="580px" height="589">
 <br>
 
 
